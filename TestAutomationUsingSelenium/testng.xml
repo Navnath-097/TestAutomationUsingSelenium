@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="browser" value="CH"></parameter>
+    <classes>
+      <class name="suite.TC_017_OrangeHRM_YouTube_UI"/>
+      <class name="suite.TC_013_OrangeHRM_Facebook_UI"/>
+      <class name="suite.TC_016_OrangeHRM_Twitter_Functional"/>
+      <class name="suite.TC_003_Login_text_UI"/>
+      <class name="suite.TC_009_CheckFooterLink_UI"/>
+      <class name="suite.TC_004_LoginWithInvalidCredentials"/>
+      <class name="suite.TC_001_CheckURL"/>
+      <class name="suite.TC_002_CheckLogo"/>
+      <class name="suite.TC_019_LoginButton_UI"/>
+      <class name="suite.TC_007_ForgotPasswordLink_UI"/>
+      <class name="suite.TC_015_OrangeHRM_Twitter_UI"/>
+      <class name="suite.TC_020_LoginWithInvalid_Functional"/>
+      <class name="suite.TC_014_OrangeHRM_Facebook_Functional"/>
+      <class name="suite.TC_012_Linkdin_Functional"/>
+      <class name="suite.TC_008_ForgotPasswordLink_Functional"/>
+      <class name="suite.TC_005_CheckRequireUsername_Error_UI"/>
+      <class name="suite.TC_011_Linkedin_UI"/>
+      <class name="suite.TC_018_OrangeHRM_YouTube_Functional"/>
+      <class name="suite.TC_006_CheckRequiredPassword_Error_UI"/>
+      <class name="suite.TC_021_LoginWithValid_Functional"/>
+      <class name="suite.TC_010_CheckFooterLink_Functional"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

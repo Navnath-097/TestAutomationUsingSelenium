@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="18" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-11T19:51:38 IST" name="Suite" finished-at="2025-02-11T19:58:04 IST" duration-ms="386499">
+    <groups>
+    </groups>
+    <test started-at="2025-02-11T19:51:38 IST" name="Test" finished-at="2025-02-11T19:58:04 IST" duration-ms="386499">
+      <class name="suite.TC_015_OrangeHRM_Twitter_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_015_OrangeHRM_Twitter_UI@7e6f74c]" started-at="2025-02-11T19:54:36 IST" name="launchBrowser" finished-at="2025-02-11T19:54:46 IST" duration-ms="9786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Twitter_UI()[pri:0, instance:suite.TC_015_OrangeHRM_Twitter_UI@7e6f74c]" started-at="2025-02-11T19:54:46 IST" name="Twitter_UI" finished-at="2025-02-11T19:54:46 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Twitter_UI -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_015_OrangeHRM_Twitter_UI@7e6f74c]" started-at="2025-02-11T19:54:46 IST" name="closeBrowser" finished-at="2025-02-11T19:54:49 IST" duration-ms="2704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_015_OrangeHRM_Twitter_UI -->
+      <class name="suite.TC_005_CheckRequireUsername_Error_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_005_CheckRequireUsername_Error_UI@10683d9d]" started-at="2025-02-11T19:55:55 IST" name="launchBrowser" finished-at="2025-02-11T19:56:02 IST" duration-ms="6261" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkLogin1()[pri:0, instance:suite.TC_005_CheckRequireUsername_Error_UI@10683d9d]" started-at="2025-02-11T19:56:02 IST" name="checkLogin1" finished-at="2025-02-11T19:56:12 IST" duration-ms="10325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_005_CheckRequireUsername_Error_UI@10683d9d]" started-at="2025-02-11T19:56:12 IST" name="closeBrowser" finished-at="2025-02-11T19:56:16 IST" duration-ms="4130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_005_CheckRequireUsername_Error_UI -->
+      <class name="suite.TC_006_CheckRequiredPassword_Error_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_006_CheckRequiredPassword_Error_UI@6989da5e]" started-at="2025-02-11T19:56:55 IST" name="launchBrowser" finished-at="2025-02-11T19:57:02 IST" duration-ms="7042" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkLogin2()[pri:0, instance:suite.TC_006_CheckRequiredPassword_Error_UI@6989da5e]" started-at="2025-02-11T19:57:02 IST" name="checkLogin2" finished-at="2025-02-11T19:57:16 IST" duration-ms="14129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin2 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_006_CheckRequiredPassword_Error_UI@6989da5e]" started-at="2025-02-11T19:57:16 IST" name="closeBrowser" finished-at="2025-02-11T19:57:19 IST" duration-ms="2967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_006_CheckRequiredPassword_Error_UI -->
+      <class name="suite.TC_011_Linkedin_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_011_Linkedin_UI@3fc2959f]" started-at="2025-02-11T19:56:16 IST" name="launchBrowser" finished-at="2025-02-11T19:56:27 IST" duration-ms="11098" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="LinkedIn_UI()[pri:0, instance:suite.TC_011_Linkedin_UI@3fc2959f]" started-at="2025-02-11T19:56:27 IST" name="LinkedIn_UI" finished-at="2025-02-11T19:56:28 IST" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkedIn_UI -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_011_Linkedin_UI@3fc2959f]" started-at="2025-02-11T19:56:28 IST" name="closeBrowser" finished-at="2025-02-11T19:56:30 IST" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_011_Linkedin_UI -->
+      <class name="suite.TC_004_LoginWithInvalidCredentials">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_004_LoginWithInvalidCredentials@815b41f]" started-at="2025-02-11T19:53:12 IST" name="launchBrowser" finished-at="2025-02-11T19:53:18 IST" duration-ms="6234" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkLogin1()[pri:0, instance:suite.TC_004_LoginWithInvalidCredentials@815b41f]" started-at="2025-02-11T19:53:18 IST" name="checkLogin1" finished-at="2025-02-11T19:53:30 IST" duration-ms="11436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_004_LoginWithInvalidCredentials@815b41f]" started-at="2025-02-11T19:53:30 IST" name="closeBrowser" finished-at="2025-02-11T19:53:34 IST" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_004_LoginWithInvalidCredentials -->
+      <class name="suite.TC_009_CheckFooterLink_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_009_CheckFooterLink_UI@3b69e7d1]" started-at="2025-02-11T19:52:56 IST" name="launchBrowser" finished-at="2025-02-11T19:53:10 IST" duration-ms="13863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="FooterLink_UI()[pri:0, instance:suite.TC_009_CheckFooterLink_UI@3b69e7d1]" started-at="2025-02-11T19:53:10 IST" name="FooterLink_UI" finished-at="2025-02-11T19:53:10 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FooterLink_UI -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_009_CheckFooterLink_UI@3b69e7d1]" started-at="2025-02-11T19:53:10 IST" name="closeBrowser" finished-at="2025-02-11T19:53:12 IST" duration-ms="2550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_009_CheckFooterLink_UI -->
+      <class name="suite.TC_018_OrangeHRM_YouTube_Functional">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_018_OrangeHRM_YouTube_Functional@5aa9e4eb]" started-at="2025-02-11T19:56:30 IST" name="launchBrowser" finished-at="2025-02-11T19:56:40 IST" duration-ms="9918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="YouTube_Functional()[pri:0, instance:suite.TC_018_OrangeHRM_YouTube_Functional@5aa9e4eb]" started-at="2025-02-11T19:56:40 IST" name="YouTube_Functional" finished-at="2025-02-11T19:56:52 IST" duration-ms="12016" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at suite.TC_018_OrangeHRM_YouTube_Functional.YouTube_Functional(TC_018_OrangeHRM_YouTube_Functional.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- YouTube_Functional -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_018_OrangeHRM_YouTube_Functional@5aa9e4eb]" started-at="2025-02-11T19:56:52 IST" name="closeBrowser" finished-at="2025-02-11T19:56:55 IST" duration-ms="2840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_018_OrangeHRM_YouTube_Functional -->
+      <class name="suite.TC_001_CheckURL">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_001_CheckURL@5542c4ed]" started-at="2025-02-11T19:53:34 IST" name="launchBrowser" finished-at="2025-02-11T19:53:44 IST" duration-ms="9823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkURL()[pri:0, instance:suite.TC_001_CheckURL@5542c4ed]" started-at="2025-02-11T19:53:44 IST" name="checkURL" finished-at="2025-02-11T19:53:46 IST" duration-ms="2052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkURL -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_001_CheckURL@5542c4ed]" started-at="2025-02-11T19:53:46 IST" name="closeBrowser" finished-at="2025-02-11T19:53:49 IST" duration-ms="2582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_001_CheckURL -->
+      <class name="suite.TC_021_LoginWithValid_Functional">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_021_LoginWithValid_Functional@385c9627]" started-at="2025-02-11T19:57:19 IST" name="launchBrowser" finished-at="2025-02-11T19:57:30 IST" duration-ms="10704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="LoginWithValid_Functional()[pri:0, instance:suite.TC_021_LoginWithValid_Functional@385c9627]" started-at="2025-02-11T19:57:30 IST" name="LoginWithValid_Functional" finished-at="2025-02-11T19:57:36 IST" duration-ms="6124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValid_Functional -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_021_LoginWithValid_Functional@385c9627]" started-at="2025-02-11T19:57:36 IST" name="closeBrowser" finished-at="2025-02-11T19:57:39 IST" duration-ms="2668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_021_LoginWithValid_Functional -->
+      <class name="suite.TC_003_Login_text_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_003_Login_text_UI@7586beff]" started-at="2025-02-11T19:52:36 IST" name="launchBrowser" finished-at="2025-02-11T19:52:42 IST" duration-ms="6365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="LoginText_UI()[pri:0, instance:suite.TC_003_Login_text_UI@7586beff]" started-at="2025-02-11T19:52:42 IST" name="LoginText_UI" finished-at="2025-02-11T19:52:53 IST" duration-ms="11102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginText_UI -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_003_Login_text_UI@7586beff]" started-at="2025-02-11T19:52:53 IST" name="closeBrowser" finished-at="2025-02-11T19:52:56 IST" duration-ms="2661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_003_Login_text_UI -->
+      <class name="suite.TC_017_OrangeHRM_YouTube_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_017_OrangeHRM_YouTube_UI@55141def]" started-at="2025-02-11T19:51:38 IST" name="launchBrowser" finished-at="2025-02-11T19:51:55 IST" duration-ms="17370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="YouTube_UI()[pri:0, instance:suite.TC_017_OrangeHRM_YouTube_UI@55141def]" started-at="2025-02-11T19:51:55 IST" name="YouTube_UI" finished-at="2025-02-11T19:51:55 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- YouTube_UI -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_017_OrangeHRM_YouTube_UI@55141def]" started-at="2025-02-11T19:51:55 IST" name="closeBrowser" finished-at="2025-02-11T19:51:58 IST" duration-ms="2573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_017_OrangeHRM_YouTube_UI -->
+      <class name="suite.TC_016_OrangeHRM_Twitter_Functional">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_016_OrangeHRM_Twitter_Functional@4c12331b]" started-at="2025-02-11T19:52:12 IST" name="launchBrowser" finished-at="2025-02-11T19:52:22 IST" duration-ms="9861" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Twitter_Functional()[pri:0, instance:suite.TC_016_OrangeHRM_Twitter_Functional@4c12331b]" started-at="2025-02-11T19:52:22 IST" name="Twitter_Functional" finished-at="2025-02-11T19:52:33 IST" duration-ms="11124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Twitter_Functional -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_016_OrangeHRM_Twitter_Functional@4c12331b]" started-at="2025-02-11T19:52:33 IST" name="closeBrowser" finished-at="2025-02-11T19:52:36 IST" duration-ms="2557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_016_OrangeHRM_Twitter_Functional -->
+      <class name="suite.TC_013_OrangeHRM_Facebook_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_013_OrangeHRM_Facebook_UI@1165b38]" started-at="2025-02-11T19:51:58 IST" name="launchBrowser" finished-at="2025-02-11T19:52:08 IST" duration-ms="9921" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Facebook_UI()[pri:0, instance:suite.TC_013_OrangeHRM_Facebook_UI@1165b38]" started-at="2025-02-11T19:52:08 IST" name="Facebook_UI" finished-at="2025-02-11T19:52:08 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook_UI -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_013_OrangeHRM_Facebook_UI@1165b38]" started-at="2025-02-11T19:52:08 IST" name="closeBrowser" finished-at="2025-02-11T19:52:12 IST" duration-ms="4056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_013_OrangeHRM_Facebook_UI -->
+      <class name="suite.TC_010_CheckFooterLink_Functional">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_010_CheckFooterLink_Functional@139982de]" started-at="2025-02-11T19:57:39 IST" name="launchBrowser" finished-at="2025-02-11T19:57:45 IST" duration-ms="6212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkLogo()[pri:0, instance:suite.TC_010_CheckFooterLink_Functional@139982de]" started-at="2025-02-11T19:57:45 IST" name="checkLogo" finished-at="2025-02-11T19:58:01 IST" duration-ms="16312" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at suite.TC_010_CheckFooterLink_Functional.checkLogo(TC_010_CheckFooterLink_Functional.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogo -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_010_CheckFooterLink_Functional@139982de]" started-at="2025-02-11T19:58:01 IST" name="closeBrowser" finished-at="2025-02-11T19:58:04 IST" duration-ms="2766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_010_CheckFooterLink_Functional -->
+      <class name="suite.TC_002_CheckLogo">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_002_CheckLogo@1573f9fc]" started-at="2025-02-11T19:53:49 IST" name="launchBrowser" finished-at="2025-02-11T19:54:04 IST" duration-ms="14965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkLogo()[pri:0, instance:suite.TC_002_CheckLogo@1573f9fc]" started-at="2025-02-11T19:54:04 IST" name="checkLogo" finished-at="2025-02-11T19:54:05 IST" duration-ms="1499" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at suite.TC_002_CheckLogo.checkLogo(TC_002_CheckLogo.java:14)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogo -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_002_CheckLogo@1573f9fc]" started-at="2025-02-11T19:54:05 IST" name="closeBrowser" finished-at="2025-02-11T19:54:08 IST" duration-ms="2596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_002_CheckLogo -->
+      <class name="suite.TC_008_ForgotPasswordLink_Functional">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_008_ForgotPasswordLink_Functional@1f2586d6]" started-at="2025-02-11T19:55:40 IST" name="launchBrowser" finished-at="2025-02-11T19:55:50 IST" duration-ms="9761" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkLogo()[pri:0, instance:suite.TC_008_ForgotPasswordLink_Functional@1f2586d6]" started-at="2025-02-11T19:55:50 IST" name="checkLogo" finished-at="2025-02-11T19:55:53 IST" duration-ms="3078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogo -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_008_ForgotPasswordLink_Functional@1f2586d6]" started-at="2025-02-11T19:55:53 IST" name="closeBrowser" finished-at="2025-02-11T19:55:55 IST" duration-ms="2618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_008_ForgotPasswordLink_Functional -->
+      <class name="suite.TC_007_ForgotPasswordLink_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_007_ForgotPasswordLink_UI@44c03695]" started-at="2025-02-11T19:54:23 IST" name="launchBrowser" finished-at="2025-02-11T19:54:33 IST" duration-ms="10239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="ForgotPasswordLink_UI()[pri:0, instance:suite.TC_007_ForgotPasswordLink_UI@44c03695]" started-at="2025-02-11T19:54:33 IST" name="ForgotPasswordLink_UI" finished-at="2025-02-11T19:54:33 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPasswordLink_UI -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_007_ForgotPasswordLink_UI@44c03695]" started-at="2025-02-11T19:54:34 IST" name="closeBrowser" finished-at="2025-02-11T19:54:36 IST" duration-ms="2513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_007_ForgotPasswordLink_UI -->
+      <class name="suite.TC_012_Linkdin_Functional">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_012_Linkdin_Functional@2f4948e4]" started-at="2025-02-11T19:55:23 IST" name="launchBrowser" finished-at="2025-02-11T19:55:33 IST" duration-ms="10095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="linkedin()[pri:0, instance:suite.TC_012_Linkdin_Functional@2f4948e4]" started-at="2025-02-11T19:55:33 IST" name="linkedin" finished-at="2025-02-11T19:55:37 IST" duration-ms="3962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkedin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_012_Linkdin_Functional@2f4948e4]" started-at="2025-02-11T19:55:37 IST" name="closeBrowser" finished-at="2025-02-11T19:55:40 IST" duration-ms="2447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_012_Linkdin_Functional -->
+      <class name="suite.TC_019_LoginButton_UI">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_019_LoginButton_UI@6150c3ec]" started-at="2025-02-11T19:54:08 IST" name="launchBrowser" finished-at="2025-02-11T19:54:20 IST" duration-ms="12617" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="LoginButton_UI()[pri:0, instance:suite.TC_019_LoginButton_UI@6150c3ec]" started-at="2025-02-11T19:54:20 IST" name="LoginButton_UI" finished-at="2025-02-11T19:54:21 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginButton_UI -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_019_LoginButton_UI@6150c3ec]" started-at="2025-02-11T19:54:21 IST" name="closeBrowser" finished-at="2025-02-11T19:54:23 IST" duration-ms="2603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_019_LoginButton_UI -->
+      <class name="suite.TC_014_OrangeHRM_Facebook_Functional">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_014_OrangeHRM_Facebook_Functional@6a78afa0]" started-at="2025-02-11T19:55:06 IST" name="launchBrowser" finished-at="2025-02-11T19:55:15 IST" duration-ms="9185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Facebook_Functional()[pri:0, instance:suite.TC_014_OrangeHRM_Facebook_Functional@6a78afa0]" started-at="2025-02-11T19:55:15 IST" name="Facebook_Functional" finished-at="2025-02-11T19:55:21 IST" duration-ms="5822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook_Functional -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_014_OrangeHRM_Facebook_Functional@6a78afa0]" started-at="2025-02-11T19:55:21 IST" name="closeBrowser" finished-at="2025-02-11T19:55:23 IST" duration-ms="2603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_014_OrangeHRM_Facebook_Functional -->
+      <class name="suite.TC_020_LoginWithInvalid_Functional">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:suite.TC_020_LoginWithInvalid_Functional@dd05255]" started-at="2025-02-11T19:54:49 IST" name="launchBrowser" finished-at="2025-02-11T19:54:58 IST" duration-ms="8904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="LoginWithInvalid_Functional()[pri:0, instance:suite.TC_020_LoginWithInvalid_Functional@dd05255]" started-at="2025-02-11T19:54:58 IST" name="LoginWithInvalid_Functional" finished-at="2025-02-11T19:55:03 IST" duration-ms="5711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalid_Functional -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:suite.TC_020_LoginWithInvalid_Functional@dd05255]" started-at="2025-02-11T19:55:03 IST" name="closeBrowser" finished-at="2025-02-11T19:55:06 IST" duration-ms="2442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- suite.TC_020_LoginWithInvalid_Functional -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
