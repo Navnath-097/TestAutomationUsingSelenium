@@ -65,4 +65,4 @@ All other 15 test cases passed successfully, including:
 3. Ensure the automation scripts are properly synchronized with the webpage loading times.
 4. If necessary, update locators or assertion conditions to match the actual UI behavior.
 
-![Image](https://github.com/user-attachments/assets/ddd8be72-2cea-4f77-a91b-81edb0fc49f8)
+![Image](https://github.com/user-attachments/assets/2d9feffc-0294-40b0-80c6-0633b8a745d6)
